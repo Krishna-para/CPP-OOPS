@@ -66,7 +66,6 @@ OOP Pillars
 **Krishna Para** — EE undergrad at NSUT, Delhi
 
 - GitHub: [@Krishna-para](https://github.com/Krishna-para)
-- LeetCode: [Krishna_para](https://leetcode.com/u/Krishna_para/)
 - LinkedIn: [krishna-para](https://linkedin.com/in/krishna-para)
 
 ---
